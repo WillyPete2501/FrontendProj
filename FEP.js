@@ -1,6 +1,6 @@
 let body = document.querySelector('body')
 body.id = 'bodyID'
-body.innerText = 'Your friend tells you about this party he is performing at. It\'s for some very wealthy people, at a countryside mansion. He says the password is randomly generated every few minutes and hands you a device. It will link up to the MainFrame computer and give you the password when you arrive.'
+body.innerText = 'Random Password Generator\n\nYour friend tells you about this party he is performing at. It\'s for some very wealthy people, at a countryside mansion. He says the password is randomly generated every few minutes and hands you a device. It will link up to the MainFrame computer and give you the password when you arrive.\n\n\n\n'
 
 let container = document.createElement('div')
 container.id = 'containerID'
