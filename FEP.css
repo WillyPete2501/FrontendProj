@@ -1,1 +1,59 @@
+* {margin:0;padding:0;}
+#bodyID {
+    background-color:#000000f9;
+    background-image: url(./MentmoreTowers.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    color: aliceblue;
+    font-size: 1.5pc;
+    padding-top: 29pc;
+    text-align: center;
+}
 
+#containerID {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#buttonID {
+    align-self: center;
+    background: url(./password.gif);
+    background-repeat: no-repeat;
+    color: aliceblue;
+    height: 23pc;
+    margin-top: 1.5pc;
+    margin-right: 4pc;
+    margin-left: 4pc;
+    padding-top: 18pc;
+    width: 25.2pc;
+}
+
+#currentBtnID {
+    align-self: center;
+    background: url(./NiceLazyBrant.gif);
+    background-repeat: no-repeat;
+    background-size: 395px;
+    color: aliceblue;
+    height: 23pc;
+    margin-top: 1.5pc;
+    margin-left: 4pc;
+    margin-right: 4pc;
+    padding-top: 18pc;
+    width: 25.2pc;
+}
+
+#successImgID {
+    align-self: center;
+    background: url(./eyesWS.png);
+    background-position: top;
+    background-size: 521px;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    height: 23pc;
+    margin-top: 1.5pc;
+    margin-left: 4pc;
+    margin-right: 4pc;
+    padding-top: 18pc;
+    width: 25.2pc;
+}
